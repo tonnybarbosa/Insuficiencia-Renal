@@ -1,2 +1,2 @@
 # Insuficiencia-Renal
-Nesse estudo, iremos analisar pacientes submetidos à hemodialise no Rio de Janeiro. Os dados foram coletados num período de 44 meses e nos informa o tempo que um paciente sobreviveu desde o início do estudo, bem como a causa da sua insuficiência renal. O banco de dados será explicado com mais propriedades ao longo do trabalho.
+Nesse estudo, iremos analisar pacientes uma coorte de 6.805 pacientes que foram submetidos a hemodiálise em 67 unidades de atendimento no Rio de Janeiro, no período de janeiro de 1998 a outubro de 2001 e nos informa o tempo que um paciente sobreviveu desde o início do estudo, bem como a causa da sua insuficiência renal. Os dados foram originados pelo sistema Apac (Autorização de Procedimentos de Alta Complexidade – DATASUS).
